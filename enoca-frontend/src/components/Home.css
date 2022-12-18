@@ -1,0 +1,55 @@
+.App{
+    background-color: #242A32;
+}
+.Navbar{
+    background-color: #242A32;
+}
+ul{
+    list-style-type: none;
+    padding-left: auto;
+    padding: 16px 24px 15.91px;
+    background-color: #242A32;
+}
+li{
+    display: inline;
+}
+
+#clock{
+    float: left;
+    left: 24px;
+    width: 28.43px;
+    height: 11.09px;
+}
+#battery{
+    float: right;
+    width: 24.33px;
+    height: 11.33px;
+}
+#mobile{
+    float: right;
+    width: 17px;
+    height: 10.67px;
+}
+#wifi{
+    float: right;
+    width: 15.27px;
+    height: 10.97px;
+}
+.App-header p{
+    position: absolute;
+    width: 317px;
+    height: 27px;
+    left: 24px;
+    top: 42px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    /* identical to box height */
+    color: #FFFFFF;    
+}
+.Search{
+    margin-top: 55px;
+}
+
